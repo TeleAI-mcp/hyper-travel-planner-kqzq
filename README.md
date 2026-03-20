@@ -1,2 +1,3 @@
-# hyper-travel-planner-kqzq
-Automated issue comment bot repository
+# Hyper Travel Planner Kqzq
+
+Automated issue comment bot repository.
